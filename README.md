@@ -1,26 +1,66 @@
-핫스왑
-트랙볼
-lcd화면
-유선, 블루투스 연결 전환 스위치
-led (배터리 충전상태, 컴퓨터 연결상태, )
-엔코더
-75배열
-왼쪽 오른쪽 B키
-키보드 바닥 각도 조절 지지대
-충분한 배터리
+# Custom Mechanical Keyboard Project
 
+## Features
 
+- **Hot-swappable switches**  
+  Easily change switches without soldering.
 
-다이오드 열풍기 납땜
-pcb (kiCAD)
-하우징 (아크릴? 알루미늄? 나무?) 
-하우징이 오목하지 않은 평평한 디자인 청소하기 용이하게
+- **Trackball integration**  
+  For smooth cursor control right on the keyboard.
 
+- **LCD Screen**  
+  Displays customizable information such as system stats or macros.
 
-MCU( AVR, STM32 )
+- **Wired & Bluetooth connectivity**  
+  Switch seamlessly between wired and wireless modes.
 
+- **LED indicators**  
+  - Battery status  
+  - Connection status
 
-팜레스트
-먼지덮개
+- **Encoders**  
+  Configurable rotary encoders for extra control.
 
-QMK Firmware
+- **75% Layout**  
+  Compact and functional with all the essential keys.
+
+- **Dual 'B' keys**  
+  One on the left and one on the right for ergonomic use.
+
+- **Adjustable keyboard feet**  
+  For customizing the typing angle.
+
+- **Long-lasting battery**  
+  Built for extended use without frequent recharges.
+
+## Build Components
+
+- **Diode Soldering**  
+  Soldering using a hot air gun for diodes.
+
+- **PCB Design**  
+  Designed using KiCad.
+
+- **Housing**  
+  Options:  
+  - Acrylic  
+  - Aluminum  
+  - Wood  
+  Flat and easy-to-clean design, no concave surfaces.
+
+- **MCU Options**  
+  - AVR  
+  - STM32
+
+## Accessories
+
+- **Palm rest**  
+  Provides added comfort during long typing sessions.
+
+- **Dust cover**  
+  Keeps your keyboard clean and dust-free.
+
+## Firmware
+
+- **QMK Firmware**  
+  Fully customizable firmware for advanced control and programming.
